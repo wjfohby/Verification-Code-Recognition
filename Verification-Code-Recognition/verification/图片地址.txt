@@ -1,0 +1,2 @@
+
+我们需要识别的图片：http://reg.cctv.com/simple/verificationCode.action?1523603745989
